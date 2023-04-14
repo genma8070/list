@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.area1 {
+  height: 400px;
+  width: 100%;
+  background-color: lightsteelblue;
+  position: relative;
+  text-align: center;
+}
+.area1 h1 {
+  margin-top: 0;
+  padding-top: 10px;
+  font-size: 36;
+}
+.area1 .pb {
+  margin-bottom: -1px;
+}
+.area1 p {
+  margin-right: 105px;
+}
+.area1 .pshort {
+  margin-right: 129px;
+}
+.area1 .plong {
+  margin-right: 73px;
+}
+.area1 .ptoolong {
+  margin-right: 62px;
+}
+.area1 i {
+  position: absolute;
+  margin-left: 4px;
+  margin-top: 2px;
+}
+.area1 .iass {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 2.5px;
+}
+.area1 input {
+  width: 125px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.area1 .button {
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: darkslategrey;
+  color: white;
+  padding: 4px;
+}/*# sourceMappingURL=sgin.css.map */

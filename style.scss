@@ -1,0 +1,114 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.area {
+    height: 300px;
+    width: 100%;
+    background-color: lightsteelblue;
+
+    position: relative;
+    text-align: center;
+
+    h1 {
+        margin-top: 0;
+        padding-top: 10px;
+        font-size: 36;
+    }
+
+    .pb
+    {
+        margin-bottom: -1px;
+    }
+
+    p {
+
+        margin-right: 105px;
+    }
+
+    .pshort {
+        margin-right: 130px;
+    }
+
+    i {
+        position: absolute;
+        margin-left: 4px;
+        margin-top: 2px;
+    }
+
+    .iass {
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 2.5px;
+
+    }
+
+    .inputa {
+        width: 125px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+    .inputc {
+        width: 143px;
+
+        padding-right: 20px;
+    }
+
+    a {
+        border-radius: 10px;
+        padding: 4px;
+        width: 40px;
+        height: 20px;
+        background-color: darkslategrey;
+        color: white;
+    }
+
+    .button {
+        
+        border-radius: 10px;
+        font-size: 15px;
+       
+        background-color: darkslategrey;
+        color: white;
+        padding: 4px;
+    }
+
+    .mumi {
+        margin-top: 50px;
+        border-radius: 15px;
+        font-size: 50px;
+       
+        background-color: yellow;
+        color: rgb(140, 0, 255);
+        padding: 4px;
+    }
+
+
+
+    .area2 {
+        width: 125px;
+        margin: auto;
+        position: relative;
+        display: flex;
+        align-items: center;
+
+
+        input {
+            margin-left: -20px;
+
+
+        }
+
+       
+
+        a {
+            margin: -20px;
+        }
+
+
+    }
+
+}
